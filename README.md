@@ -11,7 +11,7 @@ Consultant editor: P.J. Williams
 Tyndale House, Cambridge  
 2009.
 
-The `TNT2.txt` file was downloaded from [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
+The `TNT.txt` and `TNT2.txt` files were downloaded from [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
 
 See also this [ETC blog post and comment](http://evangelicaltextualcriticism.blogspot.com/2009/06/tregelless-greek-new-testament-released.html?showComment=1244314767486#c7416965811742781580). 
 
