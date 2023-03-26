@@ -8,8 +8,7 @@ Samuel Bagster and Sons: Paternoster Row. C. J. Stewart: King William Street, We
 edited by Dirk Jongkind,**  
 in collaboration with Julie Woodson, Natacha Pfister, and Robert Crellin.  
 Consultant editor: P.J. Williams  
-Tyndale House, Cambridge  
-2009.
+Tyndale House, Cambridge 2009.
 
 ## Source
 The `TNT.txt` and `TNT2.txt` files were downloaded from [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
