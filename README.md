@@ -20,7 +20,8 @@ You'll find a python script in `/scripts` that converts the source files to a mo
 See this [ETC blog comment](http://evangelicaltextualcriticism.blogspot.com/2009/06/tregelless-greek-new-testament-released.html?showComment=1244314767486#c7416965811742781580). The errata are fixed in the verse per line files. 
 
 ## Images 
-The source scans for this transcription can be found at the CSNTM website: <https://printedbooks.csntm.org/PrintedBook/Group/TregellesGreekNewTestament>
+The source scans for this transcription can be found at the [CSNTM website.](https://printedbooks.csntm.org/PrintedBook/Group/TregellesGreekNewTestament)  
+For an interesting read about how this digitization process was done, see [The first step: digitising Tregelles](https://academic.tyndalehouse.com/research/the-greek-new-testament/digitising-tregelles/) by Dirk Jongkind. 
 
 ## License 
 [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (**CC BY-NC-SA 3.0**)
