@@ -14,6 +14,10 @@ Tyndale House, Cambridge
 ## Source
 The `TNT.txt` and `TNT2.txt` files were downloaded from [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
 
-See also this [ETC blog post and comment](http://evangelicaltextualcriticism.blogspot.com/2009/06/tregelless-greek-new-testament-released.html?showComment=1244314767486#c7416965811742781580). 
+## Verse per line
+You'll find a python script in `/scripts` that converts the source files to a more standardized format that can easily be modified for whatever suits your purpose. Running the script will create identically named files in the `/verse-per-line` subfolder. 
+
+## Errata
+See this [ETC blog comment](http://evangelicaltextualcriticism.blogspot.com/2009/06/tregelless-greek-new-testament-released.html?showComment=1244314767486#c7416965811742781580). The errata are fixed in the verse per line files. 
 ## License 
 [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (**CC BY-NC-SA 3.0**)
