@@ -18,5 +18,9 @@ You'll find a python script in `/scripts` that converts the source files to a mo
 
 ## Errata
 See this [ETC blog comment](http://evangelicaltextualcriticism.blogspot.com/2009/06/tregelless-greek-new-testament-released.html?showComment=1244314767486#c7416965811742781580). The errata are fixed in the verse per line files. 
+
+## Images 
+The source scans for this transcription can be found at the CSNTM website: <https://printedbooks.csntm.org/PrintedBook/Group/TregellesGreekNewTestament>
+
 ## License 
 [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (**CC BY-NC-SA 3.0**)
