@@ -11,7 +11,7 @@ Consultant editor: P.J. Williams
 Tyndale House, Cambridge 2009.
 
 ## Source
-The `TNT.txt` and `TNT2.txt` files were downloaded from [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
+The `TNT.txt` and `TNT2.txt` files were downloaded from an archived copy of the now defunct [www.tyndalehouse.com/tregelles](https://web.archive.org/web/20180531080921/http://www.tyndalehouse.com/tregelles/page9.html) and converted from `.doc` to plain text using pandoc. 
 
 ## Verse per line
 You'll find a python script in `/scripts` that converts the source files to a more standardized format that can easily be modified for whatever suits your purpose. Running the script will create identically named files in the `/verse-per-line` subfolder. 
